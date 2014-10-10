@@ -1,4 +1,3 @@
-setwd("c:/coursera/EDA/proj1")
 
 source("read_in.R")
 
